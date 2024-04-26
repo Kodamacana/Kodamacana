@@ -1,19 +1,30 @@
-# Merhaba, Benim GitHub Profilime Hoş Geldiniz! 👋
+# Maraba
 
-Bu profilimde yer alan projelerden bazılarını aşağıda bulabilirsiniz. İlgilendiğiniz bir projeye göz atabilirsiniz!
+ SELAM BU BENİM
+ -
+ -
+ -
+ -
 
-## Pinlenmiş Projeler
 
-### Proje 1
-- [Rocket Upwards]([link](https://github.com/Kodamacana/RocketUpwards))
-- Açıklama: Buraya proje hakkında kısa bir açıklama yazabilirsiniz.
+### Rocket Upwards
+<div style="display: flex; align-items: center;">
+    <a href="https://play.google.com/store/apps/details?id=com.SilverGlobeCorporation.RocketUpwards">
+        <img src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="150">
+    </a>
+  <p>Buraya açıklama yazısını ekleyebilirsiniz.</p>
+   
+</div>
+
 
 ### Proje 2
-- [Proje Adı](link)
+- ![Proje Resmi](resim_linki)
+- [Proje Adı](proje_linki)
 - Açıklama: Buraya proje hakkında kısa bir açıklama yazabilirsiniz.
 
 ### Proje 3
-- [Proje Adı](link)
+- ![Proje Resmi](resim_linki)
+- [Proje Adı](proje_linki)
 - Açıklama: Buraya proje hakkında kısa bir açıklama yazabilirsiniz.
 
 ## Diğer Projeler
