@@ -5,7 +5,7 @@ Bu profilimde yer alan projelerden bazılarını aşağıda bulabilirsiniz. İlg
 ## Pinlenmiş Projeler
 
 ### Proje 1
-- [Proje Adı](link)
+- [Rocket Upwards]([link](https://github.com/Kodamacana/RocketUpwards))
 - Açıklama: Buraya proje hakkında kısa bir açıklama yazabilirsiniz.
 
 ### Proje 2
