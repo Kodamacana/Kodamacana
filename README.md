@@ -68,14 +68,19 @@
     <img align="center" src="https://play-lh.googleusercontent.com/uY169pRPTm1k90tSspg8s4hi2NQarSvmS5Da80IJDVTdt3VTWgpRnPs2Zgt-KG0ofg=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/J2NSASXl4kIWGaphjG7RI4AAlUPpNr_6kzxWK3t6MmJsr5gV3HEU3h5TeNf2dHXfFg=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="right" src="https://play-lh.googleusercontent.com/vEp0CNNLGmA0L8FStF9qZwi3_9pCENiLkOZbmWMrpJ8hxcufYydb3LryMAj7xgdBrx0=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
+ <br align="both" />
 </div>    
 <br/>
-
+<br/>
+<!-- <div align="center">
  <a href="https://www.youtube.com/watch?v=8mpE2ZodmA4"> 
+  <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/009/936/original/right-arrow-finger-icon-hand-pointer-click-select-press-icon-finger-press-finger-click-hand-click-thumb-button-click-symbol-illustration-isolated-for-web-and-mobile-app-free-vector.jpg" width="100">
   
-  <img align="center" src="https://img.youtube.com/vi/8mpE2ZodmA4/0.jpg" width="450">
-  
+  <img align="center" src="https://img.youtube.com/vi/8mpE2ZodmA4/0.jpg" width="500">
 </a>
+</div> -->
+ 
+<br/>
 
  ### Braincraft CSM
 <div style="position: relative;">
