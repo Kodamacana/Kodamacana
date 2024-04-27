@@ -5,17 +5,18 @@
     <a href="https://play.google.com/store/apps/details?id=com.SilverGlobeCorporation.RocketUpwards">
         <img align="left" src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="150">
     </a>    
-        <span style="position: absolute; top: 0; right: 0;">
-    <b>Rocket Upwards</b> is a mobile game where we overcome obstacles by jumping on platforms.
-    <br>
-    <br>
-    Rocket Upwards offers both <b> multiplayer</b>  and <b> single-player</b>  experiences. Players can shape their experiences according to their preferences.
-    <br>
-    <br>
-    Rocket Upwards appeals to players of all ages with its simple controls and entertaining gameplay. The game continues to provide players with innovations by receiving constant updates with new content and cosmetics.
+ <img align="right" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/7b4c02f8-3eac-4b27-9755-4d3501502137" alt="Proje Resmi" width="150">  
+<span style="position: absolute; top: 0; right: 0;">
+   <b>Rocket Upwards</b> is a mobile game where we overcome obstacles by jumping on platforms.
+     <br>
+     <br>
+   Rocket Upwards offers both <b> multiplayer</b>  and <b> single-player</b>  experiences. Players can shape their experiences according to their preferences.
+     <br>
+     <br>
+   Rocket Upwards appeals to players of all ages with its simple controls and entertaining gameplay. The game continues to provide players with innovations by receiving constant updates with new content and cosmetics.
 </span>
-    <br/>
-    <br/>
+     <br/>
+     <br/>
 </div>
 
 <div align= "center">
