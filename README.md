@@ -1,4 +1,4 @@
-<hr style="border: none; height: 1px; background-color: blue; margin: 20px 0;">
+ <hr style="border: none;">
  
 ### Rocket Upwards
 <div style="position: relative;">
@@ -25,21 +25,19 @@
 <br/>
 
 <br/><br/>
- <hr style="border: none; height: 1px; background-color: blue; margin: 20px 0;">
-<br/>
-
+ <hr style="border: none;">
+ 
 ### OutBreak Zone
 <div style="position: relative;">
     <a>
         <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/e592244d-4932-43f6-9e2c-f3e31ee0758f" alt="Proje Resmi" width="150">
     </a>         
-    <b>Rocket Upwards</b> is a mobile game where we overcome obstacles by jumping on platforms.
+    <b>OutBreak Zone</b> is a first-person shooter (FPS) computer game where players engage in fast-paced action reminiscent of classic titles like Doom and Quake, all set in a zombie-infested environment. As players battle hordes of zombies, they experience intense and adrenaline-pumping gameplay.
     <br>
     <br>
-    Rocket Upwards offers both <b> multiplayer</b>  and <b> single-player</b>  experiences. Players can shape their experiences according to their preferences.
-    <br>
-    <br>
-    Rocket Upwards appeals to players of all ages with its simple controls and entertaining gameplay. The game continues to provide players with innovations by receiving constant updates with new content and cosmetics.  
+     Outbreak Zone promises an adrenaline-fueled gaming experience that will keep players coming back for more, thanks to its intense action, classic FPS elements, and engaging gameplay.
+
+   
 </div>
 <br/>
     
@@ -47,4 +45,4 @@
     <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/67190e0e-6bb2-407d-8490-bf0c52ed96bf" alt="Resim Açıklaması 1" width="500">
 </div>
 
- <hr style="border: none; height: 1px; background-color: blue; margin: 20px 0;">
+ <hr style="border: none;">
