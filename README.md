@@ -70,7 +70,12 @@
     <img align="right" src="https://play-lh.googleusercontent.com/vEp0CNNLGmA0L8FStF9qZwi3_9pCENiLkOZbmWMrpJ8hxcufYydb3LryMAj7xgdBrx0=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
 </div>    
 <br/>
- <hr style="border: none;">
+
+ <a href="https://www.youtube.com/watch?v=8mpE2ZodmA4"> 
+  
+  <img align="center" src="https://img.youtube.com/vi/8mpE2ZodmA4/0.jpg" width="450">
+  
+</a>
 
  ### Braincraft CSM
 <div style="position: relative;">
@@ -85,18 +90,14 @@
 </span>
      <br/>
      <br/>
+     <br/>
 </div>
 
-  <br/>
 <div align= "center">
     <img align="left" src="https://play-lh.googleusercontent.com/k1d2i-eOS4W7mFdOQG0NQoJxwIZY5O1LdmvnXF9xWsm9sB23MP1wHXEYRmE-GZQd0bI=w526-h296-rw" alt="Resim Açıklaması 1" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/85xjD7X4zoqI-Mx3nawMuiRrsn4-mBzWnKiAnk_XCf1YySXV6Q3oV-iO5YGl482Q=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/SafowTN6Een5_1-18pbm0404PCAQCdXx0PBXJotYhKBMIdzbWxGiRJMCV4ECBVDD1Pk=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="right" src="https://play-lh.googleusercontent.com/jaDByYMKQ2lldF-FFOOFnQ8LZHoS3cv0NoZAR7Jk0cITF1Y7D3-06OZAMV1VZdwvV0Nt=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
 </div>    
-<br/><br/><br/><br/>
 <br/>
-
-<br/><br/>
  <hr style="border: none;">
- 
