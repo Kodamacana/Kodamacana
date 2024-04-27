@@ -6,14 +6,11 @@
         <img align="left" src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="150">
     </a>    
  <img align="right" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/7b4c02f8-3eac-4b27-9755-4d3501502137" alt="Proje Resmi" width="150">  
-<span align="both" style="position: absolute; top: 0; right: 0;">
+<span align="center" style="position: absolute;">
    <b>Rocket Upwards</b> is a mobile game where we overcome obstacles by jumping on platforms.
      <br>
      <br>
-   Rocket Upwards offers both <b> multiplayer</b>  and <b> single-player</b>  experiences. Players can shape their experiences according to their preferences.
-     <br>
-     <br>
-   Rocket Upwards appeals to players of all ages with its simple controls and entertaining gameplay. The game continues to provide players with innovations by receiving constant updates with new content and cosmetics.
+   Rocket Upwards offers both <b> multiplayer</b>  and <b> single-player</b>  experiences. Players can shape their experiences according to their preferences. Rocket Upwards appeals to players of all ages with its simple controls and entertaining gameplay. The game continues to provide players with innovations by receiving constant updates with new content and cosmetics.
 </span>
      <br/>
      <br/>
@@ -24,7 +21,10 @@
     <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGC3pSD2FsjdQ/profile-treasury-image-shrink_800_800/0/1714171488679?e=1714780800&v=beta&t=yWl5SreyddD6rus9V-EEzimqRZFj2uyulwj7Nh7hUas" alt="Resim Açıklaması 2" width="200">
     <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGHQzz1ZN9oug/profile-treasury-image-shrink_800_800/0/1714171470638?e=1714780800&v=beta&t=YMHmDJowsGc3dJrj1mdCWBCNlkxt5uTl12-WafVymLk" alt="Resim Açıklaması 3" width="200">
 </div>    
+<br/><br/><br/><br/>
 <br/>
+
+<br/><br/>
  <hr style="border: none; height: 1px; background-color: blue; margin: 20px 0;">
 <br/>
 
