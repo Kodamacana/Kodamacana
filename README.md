@@ -1,4 +1,15 @@
+<div align= "center">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/4702c81d-842c-4a2b-b7c2-80b0e14f2f8c" alt="Resim Açıklaması 1" width="270">    
+</div>
+
+
  <hr style="border: none;">
+
+<div align= "center">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/6580c806-1aba-4b28-b9ad-7e7d83064179" alt="Resim Açıklaması 1" width="400">    
+</div>    
+<br/>
+
  
 ### Rocket Upwards
 <div style="position: relative;">
