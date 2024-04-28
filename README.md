@@ -38,6 +38,7 @@
 <br/>
 
 <br/>
+<br/>
  
 ### Outbreak Zone
 <div style="position: relative;">
@@ -64,7 +65,7 @@
 ### Braincraft
 <div style="position: relative;">
     <a href="https://play.google.com/store/apps/details?id=com.minervaprotechnology.braincraft">
-        <img align="left" src="https://play-lh.googleusercontent.com/Kbx9fa5GljKvG5xvnuppOGA2gxijZGedN1Egs1lCUv4mWjIIVS2WKLUYtlAi1-LPpZbO" alt="Proje Resmi" width="100">
+        <img align="left" src="https://play-lh.googleusercontent.com/Kbx9fa5GljKvG5xvnuppOGA2gxijZGedN1Egs1lCUv4mWjIIVS2WKLUYtlAi1-LPpZbO" alt="Proje Resmi" width="120">
     </a>    
 <span align="center" style="position: absolute;">
    <b>Braincraft</b> is a mobile game where we overcome obstacles by jumping on platforms.
@@ -93,7 +94,7 @@
  ### Braincraft CSM
 <div style="position: relative;">
     <a href="https://play.google.com/store/apps/details?id=com.minervaprotechnology.BraincraftCSMTests">
-        <img align="right" src="https://play-lh.googleusercontent.com/LZ8ffe3lD5vL5ih4Pyzs8RjFedj2mYxBD0CJu8ZWOeXvNgrmirRK9PrB_W0Ou1UerJ4" alt="Proje Resmi" width="100">
+        <img align="right" src="https://play-lh.googleusercontent.com/LZ8ffe3lD5vL5ih4Pyzs8RjFedj2mYxBD0CJu8ZWOeXvNgrmirRK9PrB_W0Ou1UerJ4" alt="Proje Resmi" width="120">
     </a>    
 <span align="center" style="position: absolute;">
    <b>Braincraft</b> is a mobile game where we overcome obstacles by jumping on platforms.
