@@ -39,12 +39,12 @@
 <br/><br/>
  <hr style="border: none;">
  
-### OutBreak Zone
+### Outbreak Zone
 <div style="position: relative;">
     <a>
         <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/e592244d-4932-43f6-9e2c-f3e31ee0758f" alt="Proje Resmi" width="120">
     </a>         
-    <b>OutBreak Zone</b> is a first-person shooter (FPS) computer game where players engage in fast-paced action reminiscent of classic titles like Doom and Quake, all set in a zombie-infested environment. As players battle hordes of zombies, they experience intense and adrenaline-pumping gameplay.
+    <b>Outbreak Zone</b> is a first-person shooter (FPS) computer game where players engage in fast-paced action reminiscent of classic titles like Doom and Quake, all set in a zombie-infested environment. As players battle hordes of zombies, they experience intense and adrenaline-pumping gameplay.
     <br>
     <br>
      Outbreak Zone promises an adrenaline-fueled gaming experience that will keep players coming back for more, thanks to its intense action, classic FPS elements, and engaging gameplay.
@@ -55,9 +55,9 @@
 
 
 <div align= "center">
-    <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/67190e0e-6bb2-407d-8490-bf0c52ed96bf" alt="Resim Açıklaması 1" width="300">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/67190e0e-6bb2-407d-8490-bf0c52ed96bf" alt="Resim Açıklaması 1" width="300">
     <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/9e1120f1-5be8-4b41-8a87-29f5afaba79c" alt="Resim Açıklaması 1" width="300">
-    <img align="right" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/8f9f6e9e-5718-4097-9fc8-2dff715ac29b" alt="Resim Açıklaması 1" width="300">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/8f9f6e9e-5718-4097-9fc8-2dff715ac29b" alt="Resim Açıklaması 1" width="300">
 </div>
 
  <hr style="border: none;">
