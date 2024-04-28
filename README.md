@@ -86,13 +86,12 @@
 </div>    
 <br/>
 <br/>
-<!-- <div align="center">
- <a href="https://www.youtube.com/watch?v=8mpE2ZodmA4"> 
-  <img align="center" src="https://static.vecteezy.com/system/resources/previews/021/009/936/original/right-arrow-finger-icon-hand-pointer-click-select-press-icon-finger-press-finger-click-hand-click-thumb-button-click-symbol-illustration-isolated-for-web-and-mobile-app-free-vector.jpg" width="100">
-  
-  <img align="center" src="https://img.youtube.com/vi/8mpE2ZodmA4/0.jpg" width="500">
-</a>
-</div> -->
+<div align="center">
+
+https://github.com/Kodamacana/Kodamacana/assets/63050957/710d3ba6-1b3c-4f3d-b931-a6c4b55aa2c3
+
+
+</div>
  
 <br/>
 
