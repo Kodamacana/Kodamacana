@@ -12,7 +12,8 @@
     <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/f3c36e19-7995-43cf-baa0-5b198d0c1061" alt="Resim Açıklaması 1" width="1200">    
 </div> 
 
-<br/>
+
+### Rocket Upwards
 <div style="position: relative;">
     <a href="https://play.google.com/store/apps/details?id=com.SilverGlobeCorporation.RocketUpwards">
         <img align="left" src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="120">
@@ -36,13 +37,12 @@
 <br/><br/><br/><br/>
 <br/>
 
-<br/><br/>
- <hr style="border: none;">
+<br/>
  
 ### Outbreak Zone
 <div style="position: relative;">
     <a>
-        <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/e592244d-4932-43f6-9e2c-f3e31ee0758f" alt="Proje Resmi" width="120">
+        <img align="right" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/e592244d-4932-43f6-9e2c-f3e31ee0758f" alt="Proje Resmi" width="120">
     </a>         
     <b>Outbreak Zone</b> is a first-person shooter (FPS) computer game where players engage in fast-paced action reminiscent of classic titles like Doom and Quake, all set in a zombie-infested environment. As players battle hordes of zombies, they experience intense and adrenaline-pumping gameplay.
     <br>
@@ -78,10 +78,10 @@
 
   <br/>
 <div align= "center">
-    <img align="left" src="https://play-lh.googleusercontent.com/StFj3r7rMI2rAOChr-vGyRRNvAJteORghP3mi_Ux5oRxK1k3wau1-NGvjhmldyeFykg=w526-h296-rw" alt="Resim Açıklaması 1" width="200">
+    <img align="center" src="https://play-lh.googleusercontent.com/StFj3r7rMI2rAOChr-vGyRRNvAJteORghP3mi_Ux5oRxK1k3wau1-NGvjhmldyeFykg=w526-h296-rw" alt="Resim Açıklaması 1" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/uY169pRPTm1k90tSspg8s4hi2NQarSvmS5Da80IJDVTdt3VTWgpRnPs2Zgt-KG0ofg=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/J2NSASXl4kIWGaphjG7RI4AAlUPpNr_6kzxWK3t6MmJsr5gV3HEU3h5TeNf2dHXfFg=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
-    <img align="right" src="https://play-lh.googleusercontent.com/vEp0CNNLGmA0L8FStF9qZwi3_9pCENiLkOZbmWMrpJ8hxcufYydb3LryMAj7xgdBrx0=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
+    <img align="center" src="https://play-lh.googleusercontent.com/vEp0CNNLGmA0L8FStF9qZwi3_9pCENiLkOZbmWMrpJ8hxcufYydb3LryMAj7xgdBrx0=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
  <br align="both" />
 </div>    
 <br/>
@@ -90,8 +90,6 @@
 
 </div>
  
-<br/>
-
  ### Braincraft CSM
 <div style="position: relative;">
     <a href="https://play.google.com/store/apps/details?id=com.minervaprotechnology.BraincraftCSMTests">
@@ -109,10 +107,10 @@
 </div>
 
 <div align= "center">
-    <img align="left" src="https://play-lh.googleusercontent.com/k1d2i-eOS4W7mFdOQG0NQoJxwIZY5O1LdmvnXF9xWsm9sB23MP1wHXEYRmE-GZQd0bI=w526-h296-rw" alt="Resim Açıklaması 1" width="200">
+    <img align="center" src="https://play-lh.googleusercontent.com/k1d2i-eOS4W7mFdOQG0NQoJxwIZY5O1LdmvnXF9xWsm9sB23MP1wHXEYRmE-GZQd0bI=w526-h296-rw" alt="Resim Açıklaması 1" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/85xjD7X4zoqI-Mx3nawMuiRrsn4-mBzWnKiAnk_XCf1YySXV6Q3oV-iO5YGl482Q=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
     <img align="center" src="https://play-lh.googleusercontent.com/SafowTN6Een5_1-18pbm0404PCAQCdXx0PBXJotYhKBMIdzbWxGiRJMCV4ECBVDD1Pk=w526-h296-rw" alt="Resim Açıklaması 2" width="200">
-    <img align="right" src="https://play-lh.googleusercontent.com/jaDByYMKQ2lldF-FFOOFnQ8LZHoS3cv0NoZAR7Jk0cITF1Y7D3-06OZAMV1VZdwvV0Nt=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
+    <img align="center" src="https://play-lh.googleusercontent.com/jaDByYMKQ2lldF-FFOOFnQ8LZHoS3cv0NoZAR7Jk0cITF1Y7D3-06OZAMV1VZdwvV0Nt=w526-h296-rw" alt="Resim Açıklaması 3" width="200">
 </div> 
 
 <br/>
