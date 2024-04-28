@@ -53,11 +53,10 @@
 </div>
 <br/>
 
-
 <div align= "center">
-    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/67190e0e-6bb2-407d-8490-bf0c52ed96bf" alt="Resim Açıklaması 1" width="300">
-    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/9e1120f1-5be8-4b41-8a87-29f5afaba79c" alt="Resim Açıklaması 1" width="300">
-    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/8f9f6e9e-5718-4097-9fc8-2dff715ac29b" alt="Resim Açıklaması 1" width="300">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/67190e0e-6bb2-407d-8490-bf0c52ed96bf" alt="Resim Açıklaması 1" width="250">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/9e1120f1-5be8-4b41-8a87-29f5afaba79c" alt="Resim Açıklaması 1" width="250">
+    <img align="center" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/8f9f6e9e-5718-4097-9fc8-2dff715ac29b" alt="Resim Açıklaması 1" width="250">
 </div>
 
  <hr style="border: none;">
