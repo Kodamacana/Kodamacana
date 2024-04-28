@@ -29,9 +29,9 @@
 </div>
 <br/>
 <div align= "center">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQHRM5mTPODLfA/profile-treasury-image-shrink_800_800/0/1714171450619?e=1714780800&v=beta&t=1s1GfOeNZqyqjA7BSx4dOiWzMIs62U4Ta4qY3F8bfFU" alt="Resim Açıklaması 1" width="220">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGC3pSD2FsjdQ/profile-treasury-image-shrink_800_800/0/1714171488679?e=1714780800&v=beta&t=yWl5SreyddD6rus9V-EEzimqRZFj2uyulwj7Nh7hUas" alt="Resim Açıklaması 2" width="220">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGHQzz1ZN9oug/profile-treasury-image-shrink_800_800/0/1714171470638?e=1714780800&v=beta&t=YMHmDJowsGc3dJrj1mdCWBCNlkxt5uTl12-WafVymLk" alt="Resim Açıklaması 3" width="220">
+    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQHRM5mTPODLfA/profile-treasury-image-shrink_800_800/0/1714171450619?e=1714780800&v=beta&t=1s1GfOeNZqyqjA7BSx4dOiWzMIs62U4Ta4qY3F8bfFU" alt="Resim Açıklaması 1" width="210">
+    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGC3pSD2FsjdQ/profile-treasury-image-shrink_800_800/0/1714171488679?e=1714780800&v=beta&t=yWl5SreyddD6rus9V-EEzimqRZFj2uyulwj7Nh7hUas" alt="Resim Açıklaması 2" width="210">
+    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGHQzz1ZN9oug/profile-treasury-image-shrink_800_800/0/1714171470638?e=1714780800&v=beta&t=YMHmDJowsGc3dJrj1mdCWBCNlkxt5uTl12-WafVymLk" alt="Resim Açıklaması 3" width="210">
 </div>    
 <br/><br/><br/><br/>
 <br/>
