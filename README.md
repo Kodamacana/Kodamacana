@@ -15,7 +15,7 @@
 <br/>
 <div style="position: relative;">
     <a href="https://play.google.com/store/apps/details?id=com.SilverGlobeCorporation.RocketUpwards">
-        <img align="left" src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="150">
+        <img align="left" src="https://lh3.googleusercontent.com/YjyILhJwn3JCgFPFwuYg5Iisp7bK3OS6OV38sstW3uEBu6DtBw-pKznWm1xaXf8m0YK-" alt="Proje Resmi" width="120">
     </a>    
  <img align="right" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/7b4c02f8-3eac-4b27-9755-4d3501502137" alt="Proje Resmi" width="150">  
 <span align="center" style="position: absolute;">
