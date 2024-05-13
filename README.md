@@ -29,10 +29,11 @@
      <br/>
 </div>
 <br/>
+
 <div align= "center">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQHRM5mTPODLfA/profile-treasury-image-shrink_800_800/0/1714171450619?e=1714780800&v=beta&t=1s1GfOeNZqyqjA7BSx4dOiWzMIs62U4Ta4qY3F8bfFU" alt="Resim Açıklaması 1" width="210">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGC3pSD2FsjdQ/profile-treasury-image-shrink_800_800/0/1714171488679?e=1714780800&v=beta&t=yWl5SreyddD6rus9V-EEzimqRZFj2uyulwj7Nh7hUas" alt="Resim Açıklaması 2" width="210">
-    <img align="left" src="https://media.licdn.com/dms/image/D4D2DAQGHQzz1ZN9oug/profile-treasury-image-shrink_800_800/0/1714171470638?e=1714780800&v=beta&t=YMHmDJowsGc3dJrj1mdCWBCNlkxt5uTl12-WafVymLk" alt="Resim Açıklaması 3" width="210">
+    <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/30b395ae-7c07-4978-a954-411bd423bab3" alt="Resim Açıklaması 1" width="210">
+    <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/6da3121e-130f-4df9-95f2-0acadcdf8d9f" alt="Resim Açıklaması 2" width="210">
+    <img align="left" src="https://github.com/Kodamacana/Kodamacana/assets/63050957/0549c525-d178-4c58-9451-576b81f8574a" alt="Resim Açıklaması 3" width="210">
 </div>    
 <br/><br/><br/><br/>
 <br/>
